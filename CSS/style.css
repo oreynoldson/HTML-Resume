@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-dhbkzz');
+	src:url('../fonts/icomoon.eot?#iefix-dhbkzz') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-dhbkzz') format('woff'),
+		url('../fonts/icomoon.ttf?-dhbkzz') format('truetype'),
+		url('../fonts/icomoon.svg?-dhbkzz#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+	content: "\e600";
+}
+.icon-mail:before {
+	content: "\e601";
+}
+.icon-text:before {
+	content: "\e602";
+}
+.icon-download:before {
+	content: "\e609";
+}
+.icon-github:before {
+	content: "\e603";
+}
+.icon-twitter:before {
+	content: "\e604";
+}
+.icon-facebook:before {
+	content: "\e605";
+}
+.icon-googleplus:before {
+	content: "\e606";
+}
+.icon-linkedin:before {
+	content: "\e607";
+}
+.icon-skype:before {
+	content: "\e608";
+}
